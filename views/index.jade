@@ -1,0 +1,69 @@
+extends layout
+
+block content
+  p.message-div #{message}
+
+  table.table-hover
+    tbody
+      each val, key in bookmarks
+        tr.well
+          th
+            span.rank #{key+1}
+          th
+            .vote
+              form(method="post", action="vote")
+                input(type="hidden", name="title", value="#{val.title}")
+                input(type="hidden", name="direction", value="up")
+                input(type="image", src="/images/arrow_up_26x16.png")
+              .score #{val.score}
+              form(method="post", action="vote")
+                input(type="hidden", name="title", value="#{val.title}")
+                input(type="hidden", name="direction", value="down")
+                input(type="image", src="/images/arrow_down_26x16.png")
+          th
+            .link
+              p.link-p
+                a.link-a(href="/click/#{val.title}") #{val.title}
+              p.link-p
+                .count-comments.link-comment(data-disqus-url="http://localhost:8080/comments/#{val.title}")
+
+
+  script(type="text/javascript").
+    var disqus_shortname = "teenytinyminireddit",
+      disqusPublicKey = "iLLkc7KdhEv660mIB9leZkRak5YdMiE9yn91RJ6dGBVIESSfRp3aAL6KCZJC1DJO";
+
+    $.ajax({
+      type: 'GET',
+      url: "https://disqus.com/api/3.0/threads/list.jsonp",
+      data: { api_key: disqusPublicKey, forum : disqus_shortname },
+      cache: false,
+      dataType: 'jsonp',
+      success: function (result) {
+        //console.dir(result);
+
+        var coutntText, count, url, resObj;
+
+        $('.count-comments').each(function () {
+          url = $(this).attr('data-disqus-url');
+          //console.log(url);
+
+          resObj = _.filter(result.response, function(val) {
+            return (unescape(val.link) == url);
+          });
+          console.dir(resObj);
+
+          if (resObj.length === 1) {
+            countText = " comment";
+            count = resObj[0].posts;
+
+            if (count > 1)
+              countText = " comments";
+
+          } else {
+            countText = " comment";
+            count = 0;
+          }
+          $(this).html("<a href=\"" + url + "\">" + count + countText + "</a>");
+        });
+      }
+    });

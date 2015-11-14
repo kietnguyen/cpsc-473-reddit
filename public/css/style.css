@@ -1,0 +1,80 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.navbar-brand img {
+  height: 150%;
+  padding-right: 12px;
+}
+.navbar-brand {
+  padding-top: 0;
+}
+#main-content {
+  padding-top: 64px;
+}
+.fa {
+  font-size: 1.2em;
+}
+.navbar-brand {
+  font-family: fantasy;
+}
+.message-div {
+  color: red;
+}
+.rank {
+  color: #c6c6c6;
+  font-family: fantasy;
+  font-size: large;
+  padding-left: 10px;
+}
+.vote {
+  font-weight: bold;
+  font-size: small;
+  float: left;
+  margin-right: 14px;
+  margin-left: 10px;
+  overflow: hidden;
+  color: #c6c6c6;
+  font-family: arial;
+  width: 40px;
+  height: 72px;
+  text-align: center;
+  padding-top: 10px;
+}
+.link-a {
+  vertical-align: text-top;
+  font-size: 14px;
+  line-height: 1px;
+  font-family: sans-serif;
+}
+.link-comment {
+  padding-left: 8px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: x-small;
+  font-weight: bold;
+  color: #666666;
+}
+button a {
+  text-decoration: none;
+}
+.link-p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+tr {
+  height: 72px;
+}
+.link {
+  position: relative;
+  top: 6px;
+}
+.dropdown-form {
+  background-color: #080808;
+  min-width: 300px;
+}
+.dropdown-form .input-group {
+  margin: 10px;
+}
+.dropdown-form .text-center {
+  margin-bottom: 10px;
+}

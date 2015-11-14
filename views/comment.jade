@@ -1,0 +1,41 @@
+extends layout
+
+block content
+  .row
+    .link
+      p
+        a.link-a(href="/click/#{urlTitle}") #{urlTitle}
+      p
+        a.link-comment(href="/comments/#{urlTitle}#disqus_thread") Link
+
+  #disqus_thread
+
+  // load Disqus
+  script(type="text/javascript").
+    var disqus_shortname = "teenytinyminireddit";
+    var disqus_identifier = "#{urlTitle}";
+    var disqus_title = "#{urlTitle}";
+    var disqus_url = "http://localhost:8080/comments/#{urlTitle}";
+
+    (function() {
+      var dsq = document.createElement("script"); dsq.type = "text/javascript"; dsq.async = true;
+      dsq.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+      ($("head") || $("body")).append(dsq);
+    })();
+
+  noscript Please enable JavaScript to view the
+    a(href="http://disqus.com/?ref_noscript") comments powered by Disqus.
+
+  a.dsq-brlink(href="http://disqus.com") comments powered by
+    span.logo-disqus Disqus
+
+  // display comment count
+  script(type="text/javascript").
+    var disqus_shortname = "teenytinyminireddit";
+
+    (function () {
+      var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+      s.src = "//" + disqus_shortname + ".disqus.com/count.js";
+      ($("head") || $("body")).append(s);
+    }());
+
