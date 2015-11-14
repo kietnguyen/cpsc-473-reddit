@@ -1,5 +1,5 @@
 var MongoClient = require('mongodb').MongoClient,
-    dbUrl = 'mongodb://127.0.0.1:27017/cpsc473',
+    dbUrl = process.env.MONGOLAB_URI || "mongodb://localhost:27017/test",
     db_err_handler = require('./common.js').db_err_handler,
     message = '';
 

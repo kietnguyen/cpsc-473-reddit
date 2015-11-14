@@ -14,7 +14,14 @@
 ## Setup
 
 ```
-npm install && node app.js
+# install node modules
+npm install
+
+# (manually) initialize `reddit` collection
+# mongoimport -h <hostname><:port> -d <database> -c <collection> -u <user> -p <password> --file reddit.json
+
+# start app
+npm start
 ```
 
 
@@ -39,3 +46,4 @@ npm install && node app.js
 
 * [Heroku](https://www.heroku.com/)
 * [MongoLab](https://mongolab.com/)
+* [Disqus](https://disqus.com/)

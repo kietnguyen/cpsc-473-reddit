@@ -1,0 +1,300 @@
+{"score" : 132,"url" : "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes/2.0.0.txt","title" : "Git new major version 2.0.0"}
+{"score" : 141,"url" : "http://tavianator.com/2014/03/k-d-forests/","title" : "k-d Forests: Optimizing \"all RGB colors in one image\""}
+{"score" : 261,"url" : "https://github.com/ValveSoftware/ToGL","title" : "Valve's Direct3D -&gt; OpenGL translation layer"}
+{"score" : 7,"url" : "http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php","title" : "The Computer Graphics Library"}
+{"score" : 75,"url" : "http://ncase.github.io/sight-and-light","title" : "Sight &amp; Light - How to create 2D visibility polygons for your game"}
+{"score" : 5,"url" : "http://blogs.msdn.com/b/ashleyf/archive/2013/10/13/programming-the-f18.aspx","title" : "Programming the F18 architecture - where programming 144 chips in ColorFORTH is more like CSP than multicore programming."}
+{"score" : 289,"url" : "http://pragdave.me/blog/2014/03/04/time-to-kill-agile/","title" : "It's time to retire the word \"Agile\" (Dave Thomas)"}
+{"score" : 607,"url" : "http://richardboydsmith.wordpress.com/2014/03/03/i-hate-open-floorplans-it-makes-roger-come-out/","title" : "Why open floorplans are bad for programming"}
+{"score" : 1517,"url" : "https://github.com/SonyWWS/ATF","title" : "Sony has opensourced the tools framework used by their first party game development studios."}
+{"score" : 31,"url" : "http://benlevy.com/blog/100-days-coding/","title" : "100 Days of Coding"}
+{"score" : 90,"url" : "http://blog.httrack.com/blog/2014/03/09/what-are-your-gcc-flags/","title" : "What Are Your GCC Flags?"}
+{"score" : 6,"url" : "https://www.quora.com/Computer-Programming/What-programming-languages-have-you-mastered-and-which-do-you-recommend-other-programmers-master-as-well/answer/Dave-Baggett?__snids__=236814119&amp;__nsrc__=1","title" : "Dave Baggett (first employee at Naughty Dog) gives perspective on what languages you should know or learn"}
+{"score" : 3,"url" : "https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html","title" : "Is Parallel Programming Hard, And, If So, What Can You Do About It? (1st edition)"}
+{"score" : 6,"url" : "http://arstechnica.com/gaming/2014/03/valve-releases-open-source-direct3d-to-opengl-translator/","title" : "Valve releases open source Direct3D to OpenGL translator"}
+{"score" : 0,"url" : "http://simpleprogrammer.com/2014/03/04/24-hour-100-challenge/?utm_source=Simple+Programmer+Newsletter&amp;utm_campaign=2c546d31ab-_100_Challenge_Post3_3_2014&amp;utm_medium=email&amp;utm_term=0_e3673c01b9-2c546d31ab-94863849","title" : "Craziest Entrepreneur Challenge: Can 3 Devs Make $100 Each In 24 Hours? (1 of 3)"}
+{"score" : 3,"url" : "http://strilanc.com/math/2014/03/11/Ordering-Cyclic-Sequence-Numbers.html","title" : "Ordering Cyclic Sequence Numbers"}
+{"score" : 25,"url" : "http://rmarkdown.rstudio.com/","title" : "R Markdown — Dynamic Documents for R"}
+{"score" : 0,"url" : "http://www.viva64.com/en/b/0241/","title" : "Comparison of static code analyzers: CppCat, Cppcheck, PVS-Studio and Visual Studio"}
+{"score" : 24,"url" : "http://martinfowler.com/articles/microservices.html","title" : "Microservices"}
+{"score" : 117,"url" : "http://www.ktbyte.com/textbook/gamewalkthroughs","title" : "2048 in 42 lines"}
+{"score" : 0,"url" : "http://depstack.io/popular/npm","title" : "Popular NPM libraries listing"}
+{"score" : 4,"url" : "http://www.chrisseaton.com/rubytruffle/how-method-dispatch-works-in-jruby-truffle/","title" : "How Method Dispatch Works in JRuby/Truffle"}
+{"score" : 148,"url" : "http://cs.stackexchange.com/q/3019/55","title" : "What is the novelty in MapReduce? How is it different from just standard divide &amp; conquer in, say, merge sort? Good discussion on the Computer Science StackExchange."}
+{"score" : 13,"url" : "http://opensource.com/business/14/3/postgresql-ugly-no-more","title" : "PostgreSQL education and adoption has changed for the better"}
+{"score" : 0,"url" : "http://www.hanselminutes.com/413/im-a-blind-software-technician-ask-me-anything-with-katherine-moss","title" : "I'm a Blind Software Technician - Ask Me Anything! with Katherine Moss on the Hanselminutes Technology Podcast: Fresh Air for Developers"}
+{"score" : 0,"url" : "http://www.cookiesforhackers.tk","title" : "Cookies for Hackers"}
+{"score" : 7,"url" : "http://www.infoq.com/presentations/c-plus-plus-pros","title" : "C++: The Good Parts | QCon San Francisco 2013"}
+{"score" : 0,"url" : "http://summit.ubuntu.com/appdevweek-1403/meeting/22127/building-html5-apps-with-ubuntu/","title" : "Building HTML5 apps with Ubuntu -"}
+{"score" : 0,"url" : "http://www.hackreactor.com/blog/no-cs-degree-programmer-engineer","title" : "No CS Degree? No problem. Steps to Prepare for"}
+{"score" : 0,"url" : "http://tonylampada.github.io/webgl_graphs/","title" : "3D Graph renderer with webgl"}
+{"score" : 16,"url" : "http://paulmck.livejournal.com/36854.html","title" : "Parallel Programming: First Electronic Edition (CC-BY-SA 3.0)"}
+{"score" : 0,"url" : "http://whyjavasucks.com/Post/View/93","title" : "Java Annotations, educating and entertaining"}
+{"score" : 117,"url" : "http://ginsweater.com/blog/2014/03/10/the-littlest-cpu-rasterizer/","title" : "The Littlest CPU Rasterizer - terrain rendering with voxels"}
+{"score" : 0,"url" : "http://www.puzzlescript.net/editor.html?hack=9498421","title" : "PuzzleScript port of \"2048\""}
+{"score" : 6,"url" : "http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf","title" : "Ken Thompson's \"Reflections on Trusting Trust\""}
+{"score" : 3,"url" : "https://medium.com/grand-things/522768ac482a","title" : "Migrating from PHP to Node.js"}
+{"score" : 752,"url" : "http://thecodelesscode.com/case/135","title" : "The Codeless Code: Case 135 Ass-Backwards Compatibility"}
+{"score" : 380,"url" : "http://math-blog.com/2014/03/10/stem-shortage-claims-and-facebooks-19-billion-acquisition-of-whatsapp/","title" : "Programmers Shortage Claims and Facebook’s $19 Billion Acquisition of WhatsApp"}
+{"score" : 0,"url" : "http://blog.diniscruz.com/2014/03/published-beta-version-of-practical-git.html","title" : "Published Beta version of \"Practical Git and GitHub\" eBook"}
+{"score" : 0,"url" : "http://pyobf.herokuapp.com/","title" : "Python Obfuscator"}
+{"score" : 0,"url" : "https://www.usenix.org/system/files/1403_02-08_mickens.pdf","title" : "[PDF] New Mickens humor article (on HTML/CSS/Javascript)"}
+{"score" : 27,"url" : "http://raganwald.com/2014/03/10/writing-oop-using-oop.html","title" : "Writing OOP using OOP (JavaScript)"}
+{"score" : 88,"url" : "http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html","title" : "The Mid-Career Crisis of the Perl Programmer"}
+{"score" : 0,"url" : "http://blog.crowdprocess.com/post/79272372363/free-for-scientists-and-researchers","title" : "Distributed computing platform is free for scientists and researchers"}
+{"score" : 2,"url" : "http://perltricks.com/article/76/2014/3/11/Simple-web-framework-FastCGI-caching-with-nginx-part-1","title" : "Simple web framework FastCGI caching with nginx (Perl)"}
+{"score" : 0,"url" : "http://blog.8thlight.com/uncle-bob/2014/03/11/when-to-think.html","title" : "When should you think? - Uncle Bob breaks it down."}
+{"score" : 0,"url" : "https://github.com/Rodeoclash/credits.json","title" : "Show /programming: Get credit for building websites"}
+{"score" : 22,"url" : "https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet","title" : "CloudFlare experimenting with ECDSA certificates (most HTTPS sites use RSA)"}
+{"score" : 0,"url" : "http://www.youtube.com/watch?v=Hu_C0ldSqrs","title" : "Catch the balls, live programming demo with Pharo"}
+{"score" : 0,"url" : "http://bas.bosschert.nl/steal-whatsapp-database/","title" : "Facebook didn’t need to buy WhatsApp to access your chat messages — any Android app can read the WhatsApp database"}
+{"score" : 0,"url" : "https://www.stormpath.com/blog/sales-for-hackers","title" : "Sales for Hackers"}
+{"score" : 1,"url" : "http://www.software.ac.uk/news/2014-03-10-we-need-fight-people-behind-research-software?nw","title" : "We need to fight for the people behind research software"}
+{"score" : 61,"url" : "https://github.com/atheme/ircv3-specifications/issues/55","title" : "JSON-based messages considered for IRC protocol 3.3"}
+{"score" : 48,"url" : "http://www.topcoder.com/asteroids/","title" : "NASA’s Asteroid Data Hunter contest series will offer $35,000 in awards over the next six months to citizen scientists who develop improved algorithms that can be used to identify asteroids."}
+{"score" : 0,"url" : "http://ananthchellathurai.blogspot.com/2014/03/getting-started-with-restful-webservice.html","title" : "Getting started with RESTful webservice using Jersey + Maven"}
+{"score" : 0,"url" : "http://insidetechtalk.com/rapid-application-development-too-fast/","title" : "Rapid Application Development: How Fast is Too Fast?"}
+{"score" : 0,"url" : "http://blogging.alastair.is/minimal-ui-on-ios7-1/","title" : "The minimal-ui meta tag in iOS 7.1"}
+{"score" : 0,"url" : "http://itknowledgeexchange.techtarget.com/uncharted-waters/on-tech-safety/","title" : "On Tech Safety"}
+{"score" : 0,"url" : "http://viget.com/extend/whats-new-since-the-last-deploy","title" : "What's new since the last deploy?"}
+{"score" : 35,"url" : "http://www.viva64.com/en/b/0240/","title" : "A Spin-off: CryEngine 3 SDK Checked with CppCat"}
+{"score" : 450,"url" : "http://www.libjpeg-turbo.org/About/Mozjpeg","title" : "3 reasons why Mozilla forked libjpeg-turbo"}
+{"score" : 7,"url" : "http://www.spatial.maine.edu/~worboys/processes/hoare%20axiomatic.pdf","title" : "An Axiomatic Basis for Computer Programming"}
+{"score" : 0,"url" : "https://github.com/chadillac/MoshPit.js","title" : "MoshPit.js - managing your applications views, states, and their conflicts across devices/sizes in javascript sucks... so stop doing it."}
+{"score" : 0,"url" : "http://goose.drewr.co.uk/","title" : "Goose: Runtime C# compilation and Lua scripting"}
+{"score" : 45,"url" : "http://stevegattuso.me/2014/03/09/hardware-revolution.html","title" : "The Hardware Revolution"}
+{"score" : 0,"url" : "http://lsmr.cpsc.ucalgary.ca/projects/corpus/fse2012cossette.pdf","title" : "Seeking the ground truth: a retroactive study on the evolution and migration of software libraries"}
+{"score" : 25,"url" : "https://blogs.oracle.com/jrose/entry/value_types_in_the_vm","title" : "Value types in the (J)VM"}
+{"score" : 0,"url" : "http://cjohansen.no/clojure-to-die-for","title" : "Clojure to die for"}
+{"score" : 22,"url" : "http://sorting.at/","title" : "SORTING - A visualization of the most famous sorting algorithms"}
+{"score" : 27,"url" : "http://blog.jooq.org/2014/03/10/please-run-that-calculation-in-your-rdbms","title" : "Please, run that calculation in your RDBMS"}
+{"score" : 6,"url" : "http://reganmian.net/blog/2014/03/10/parsing-massive-clicklogs/","title" : "Parsing massive clicklogs, an approach to parallel Python"}
+{"score" : 0,"url" : "http://pyskool.com/favorite-programming-language-sucks/","title" : "Your Favorite Programming Language Sucks"}
+{"score" : 0,"url" : "http://www.gild.com","title" : "Gild: A giant database of developer contact info, ranked by skill and coding ability (gild.com)"}
+{"score" : 30,"url" : "http://robert.ocallahan.org/2014/03/introducing-chaos-mode.html","title" : "Introducing Chaos Mode"}
+{"score" : 4,"url" : "http://arodland.github.io/smockron","title" : "A new distributed HTTP rate-limiter: Smockron"}
+{"score" : 0,"url" : "http://designgeekz.com/20-best-jquery-plugins-for-2014/","title" : "20 Best jQuery Plugins for 2014"}
+{"score" : 0,"url" : "http://www.websanova.com/blog/node-js/serving-pages-dynamically-with-node-js","title" : "Serving Pages Dynamically with Node.js"}
+{"score" : 0,"url" : "http://devices.wolfram.com/","title" : "Wolfram Connected Devices Project -- Community curated database of connectable devices and their capabilities"}
+{"score" : 0,"url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8NhLT9tymP8PBNULO5I68ctSzetu0HYFpoIokvf53UJaSrYSm","title" : "I have a program that was written for our company 15 years ago. The programmer is no longer around and no one has the administrative password for the setup. Is there any way of looking through the access database file or anything to recover it?"}
+{"score" : 0,"url" : "http://amirchaudhry.com/from-jekyll-to-unikernel-in-fifty-lines/","title" : "Turn your Jekyll site into a Unikernel (single-purpose VM) in fifty lines of code (using Travis CI)."}
+{"score" : 0,"url" : "http://plasmasturm.org/log/gitmail/","title" : "Sensible Git mail for the occasional user"}
+{"score" : 2,"url" : "https://blogs.oracle.com/java/entry/java_se_8_schedule","title" : "Programmers Embrace: Java 8 To Release This March!"}
+{"score" : 0,"url" : "https://github.com/bcoe/em-stretcher","title" : "EM:Stretcher, an ElasticSearch Client for EventMachine"}
+{"score" : 0,"url" : "http://mikefeldmeier.com/nproc","title" : "Manage processes with nproc"}
+{"score" : 0,"url" : "http://www.saltwaterc.eu/portspoof-trolling.html","title" : "portspoof trolling | printf(\" SaltwaterC \");"}
+{"score" : 0,"url" : "http://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/","title" : "Scala Tutorial Through Katas"}
+{"score" : 0,"url" : "http://studentduniya.in/creating-database-mongodb/","title" : "Creating Database with MongoDB"}
+{"score" : 0,"url" : "http://agiledevtest.blogspot.com/2014/01/biggest-hindrances-to-being-agile.html","title" : "Biggest hindrances to being agile !!"}
+{"score" : 8,"url" : "http://www.mutuallyhuman.com/blog/2014/03/10/ruggedizing-mobile-applications/","title" : "Ruggedizing Mobile Applications"}
+{"score" : 1,"url" : "https://mathieu.fenniak.net/the-api-checklist/","title" : "The Web API Checklist — 43 Things To Think About When Designing, Testing, and Releasing your API"}
+{"score" : 475,"url" : "http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf","title" : "Why Functional Programming Matters"}
+{"score" : 0,"url" : "http://www.thecrazyprogrammer.com/2014/03/representation-of-graphs-adjacency-matrix-and-adjacency-list.html","title" : "Representation of Graphs: Adjacency Matrix and Adjacency List"}
+{"score" : 0,"url" : "http://naoyashiga-en.hatenablog.com/entry/2014/03/11/130007","title" : "I asked Github engineers. Three tips for human to distinguish commit numbers."}
+{"score" : 324,"url" : "http://stackoverflow.com/q/12995434/1267663","title" : "python - Representing and solving a maze given an image"}
+{"score" : 5,"url" : "http://oss.sheetjs.com/","title" : "In-browser Excel file parser"}
+{"score" : 7,"url" : "http://vvvnt.com/media/history-of-databases","title" : "A Brief History of Databases"}
+{"score" : 0,"url" : "http://blog.stockapps.net/mobile-interaction-design-tools/","title" : "Mobile Interaction Design Tools. Quartz Composer &amp; Origami"}
+{"score" : 0,"url" : "http://martinfowler.com/bliki/SoftwareDevelopmentAttitude.html","title" : "software development attitude"}
+{"score" : 8,"url" : "http://hglabhq.com/blog/2014/3/11/hglab-1-3-released","title" : "HgLab 1.3 Released"}
+{"score" : 0,"url" : "http://channel9.msdn.com/Shows/Cloud Cover/Episode-133-The-Website-Capability-Model","title" : "Episode 133: The Website Capability Model (Channel 9)"}
+{"score" : 12,"url" : "http://highscalability.com/blog/2014/3/5/10-things-you-should-know-about-running-mongodb-at-scale.html","title" : "High Scalability - 10 Things You Should Know About Running MongoDB at Scale"}
+{"score" : 2,"url" : "http://blog.mongohq.com/new-elastic-deployments-now-available/","title" : "Announcing MongoHQ Elastic Deployments - Simple, On-demand Database Scaling for your MongoDBs"}
+{"score" : 4,"url" : "http://www.reddit.com/r/mongodb/comments/2029l3/updating_document_rearranges_data/","title" : "Updating Document Rearranges Data"}
+{"score" : 2,"url" : "http://blog.mongohq.com/more-destinations-for-mongohq-alerts-with-zapier/","title" : "More Destinations for MongoHQ Alerts with Zapier"}
+{"score" : 1,"url" : "http://www.reddit.com/r/mongodb/comments/1ze38u/have_the_fault_tolerance_issues_mentioned_in/","title" : "Have the fault tolerance issues mentioned in Hacking Distributed article been resolved yet?"}
+{"score" : 3,"url" : "https://github.com/talis/tripod-php","title" : "Tripod – Object Graph Mapper for managing RDF data stored in MongoDB"}
+{"score" : 3,"url" : "http://www.reddit.com/r/mongodb/comments/1zwnvq/data_structure_question_need_some_conceptual_help/","title" : "Data structure question. Need some conceptual help."}
+{"score" : 8,"url" : "http://blog.mongolab.com/2014/02/future-of-mongodb-fireside-chat-with-mongodb-cto-eliot-horowitz/","title" : "Future of MongoDB: Fireside with MongoDB CTO Eliot Horowitz"}
+{"score" : 3,"url" : "https://www.mongodb.com/presentations/mongodb-and-amazon-web-services-deploying-high-availability","title" : "MongoDB and Amazon Web Services: Deploying for High Availability"}
+{"score" : 3,"url" : "http://docs.fluentd.org/articles/apache-to-mongodb","title" : "Streaming Apache logs into MongoDB with Fluentd"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1z31y1/data_transformation_help_variety_of_documents/","title" : "Data Transformation Help - Variety of Documents -Distinct Fields"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1z2k17/documentsubdocument_help/","title" : "Document/Subdocument Help"}
+{"score" : 13,"url" : "http://blog.mongohq.com/robomongo-your-next-shell/","title" : "Robomongo: Your next shell?"}
+{"score" : 6,"url" : "http://www.reddit.com/r/mongodb/comments/1zprke/is_this_query_scenario_possible_to_handle_with_a/","title" : "Is this query scenario possible to handle with a single Mongo CLI query?"}
+{"score" : 2,"url" : "https://bugsnag.com/blog/mongo-2-6-highlights","title" : "Mongo 2.6 Highlights"}
+{"score" : 1,"url" : "https://github.com/zagaran/mongolia","title" : "Mongolia - pymongo library that lets you work with mongo objects in a more pythonic way"}
+{"score" : 7,"url" : "http://derickrethans.nl/mongodb-and-solr.html","title" : "Fulltext Search with MongoDB and Solr"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1z040z/viewing_all_mongo_databases/","title" : "Viewing All Mongo Databases"}
+{"score" : 1,"url" : "http://www.reddit.com/r/mongodb/comments/1yugnr/querying_latest_userposts/","title" : "Querying latest user-posts"}
+{"score" : 7,"url" : "http://blog.mongohq.com/zapier-your-data-to-mongohq/","title" : "Zapier integrations for MongoDB"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1yhixf/mongodb_with_aspnet_learnings/","title" : "mongodb with asp.net learnings"}
+{"score" : 3,"url" : "http://www.reddit.com/r/mongodb/comments/1yh30s/mongo_extremely_slow_under_high_load/","title" : "Mongo extremely slow under high load"}
+{"score" : 1,"url" : "http://blog.mongodb.org/post/77278906988/crittercism-scaling-to-billions-of-requests-per-day-on","title" : "Crittercism: Scaling To Billions Of Requests Per Day On MongoDB"}
+{"score" : 3,"url" : "http://www.scalebase.com/extreme-scalability-with-mongodb-and-mysql-part-2-data-distribution-reads-writes-and-data-redistribution/","title" : "Extreme Scalability with MongoDB and MySQL Part 2: Data Distribution, Reads / Writes, and Data Redistribution"}
+{"score" : 5,"url" : "https://www.mongosoup.de/blog-entry/Introducing-the-Kinesis-MongoDB-Connector.html","title" : "Introducing the AWS Kinesis MongoDB Connector"}
+{"score" : 1,"url" : "http://blog.mongohq.com/quick-connections-for-mongodb-with-node-red/","title" : "http://blog.mongohq.com/quick-connections-for-mongodb-with-node-red/"}
+{"score" : 1,"url" : "http://closurelog.com/static-instance-methods-mongoose-mongodb/","title" : "using instance and static methods with Mongoose"}
+{"score" : 8,"url" : "http://databasefriends.blogspot.com/2014/02/tokumx-high-performance-mongodb.html","title" : "TokuMX – High-Performance MongoDB Distribution"}
+{"score" : 6,"url" : "http://www.reddit.com/r/mongodb/comments/1xxamz/a_few_dba_questions_from_a_future_tech_lead/","title" : "A few DBA questions from a future tech lead"}
+{"score" : 2,"url" : "http://blog.mongolab.com/2014/01/how-big-is-your-mongodb/","title" : "Understanding MongoDB storage and dbStats"}
+{"score" : 9,"url" : "http://www.fullcontact.com/blog/mongo-to-cassandra-migration/","title" : "Migrating from MongoDB to Cassandra"}
+{"score" : 2,"url" : "http://blog.mongohq.com/from-json-to-bson-and-back/","title" : "From JSON to BSON and Back: How MongoDB works with JSON"}
+{"score" : 5,"url" : "http://www.reddit.com/r/mongodb/comments/1xr5ak/benefits_of_using_a_mongodbasaservice_provider/","title" : "Benefits of using a MongoDB-as-a-Service provider, such as MongoLab or MongoHQ vs. hosting your own?"}
+{"score" : 6,"url" : "http://www.reddit.com/r/mongodb/comments/1xmmm7/can_someone_please_explain_why_i_should_use/","title" : "Can someone please explain why I should use MongoDB?"}
+{"score" : 5,"url" : "http://blog.mms.mongodb.com/post/77279440964/replica-set-health-is-more-than-just-replication-lag","title" : "Replica set health is more than just replication lag"}
+{"score" : 4,"url" : "http://www.reddit.com/r/mongodb/comments/1ywhmf/converting_deep_relations_to_the_document_mindset/","title" : "Converting Deep Relations to the Document Mindset"}
+{"score" : 6,"url" : "http://www.reddit.com/r/mongodb/comments/1xlo7d/best_practices_for_securing_mongodb/","title" : "Best practices for securing MongoDB"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1xkut6/best_practices_for_running_mongodb_on_aws_free/","title" : "Best practices for running MongoDB on AWS - free webinar series"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1yu3do/role_confusion_in_mongodb/","title" : "ROLE Confusion in MongoDB"}
+{"score" : 5,"url" : "http://engineering.foursquare.com/2014/01/28/mongo-on-hadoop/","title" : "Mongo on Hadoop | Foursquare Engineering Blog"}
+{"score" : 3,"url" : "http://blog.mongohq.com/building-mongodb-into-your-internet-of-things-a-tutorial/","title" : "Build­ing Mon­goDB into your Inter­net of Things: A Tutorial"}
+{"score" : 5,"url" : "https://education.mongodb.com/","title" : "MongoDB University - mongodb essentials from the Creator - courses launched to make the awareness - should be registered by MongoDB Starter Programmers"}
+{"score" : 2,"url" : "http://blog.mongohq.com/you-dont-have-big-data/","title" : "You don't have big data . . ."}
+{"score" : 2,"url" : "http://www.10smith.com/post/75784098307/mongodb-overview","title" : "MongoDB overview"}
+{"score" : 2,"url" : "http://www.scalebase.com/extreme-scalability-with-mongodb-and-mysql-part-3-query-model/","title" : "Extreme Scalability with MongoDB and MySQL Part 3: Query Model"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1x2nr2/mongodb_projects/","title" : "Mongodb Projects"}
+{"score" : 6,"url" : "http://blog.mongohq.com/at-the-mongodb-2-6-index-intersection/","title" : "Harnessing the MongoDB 2.6 index intersection"}
+{"score" : 3,"url" : "http://www.reddit.com/r/mongodb/comments/1wzg1r/pymongo_troubles_collection_object_is_not_callable/","title" : "Pymongo troubles - Collection Object is not callable"}
+{"score" : 7,"url" : "https://jira.mongodb.org/browse/SERVER-1240?focusedCommentId=492129&amp;page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-492129","title" : "Eliot Horowitz - MongoDB 2.8 will have finer-grained locking"}
+{"score" : 3,"url" : "http://blog.stretchr.com/post/75511211537/five-things-to-get-right-when-setting-up-mongodb","title" : "[Infographic] - Five things you need to get right when setting up MongoDB"}
+{"score" : 3,"url" : "http://www.reddit.com/r/mongodb/comments/1xipzd/what_are_some_simple_examples_of_using_mongodb/","title" : "What are some simple examples of using MongoDB?"}
+{"score" : 10,"url" : "http://blog.mongolab.com/2014/02/mongodb-currentop-killop/","title" : "Finding and terminating long-running queries in MongoDB"}
+{"score" : 9,"url" : "http://devblog.me/wtf-mongo","title" : "Top 5 syntactic weirdnesses to be aware of in MongoDB"}
+{"score" : 0,"url" : "http://www.mongosoup.de/blog-entry/Introducing-the-MongoSoup-MongoDB-podcast.html","title" : "Introducing a German MongoDB Podcast"}
+{"score" : 6,"url" : "http://blog.mongohq.com/redis-mongodb-and-the-power-of-incremency/","title" : "Redis, MongoDB and the power of incremency"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1wlx4a/249_bug_in_redhat_flavor_prevents_service_from/","title" : "2.4.9 bug in Redhat flavor prevents service from handing back control to the shell"}
+{"score" : 2,"url" : "http://www.reddit.com/r/learnpython/comments/1wk8hi/please_review_my_tornado_pymongo_code/","title" : "Please review my tornado pymongo code (x-post learnpython)"}
+{"score" : 3,"url" : "http://kvaziblog.com/posts/4","title" : "Get Random Document From MongoDB Collection"}
+{"score" : 1,"url" : "http://blog.mongohq.com/two-factor-authentication-and-security-auditing-now-available-for-all-mongohq-accounts/","title" : "MongoHQ releases two-factor authentication and account security auditing."}
+{"score" : 8,"url" : "http://mongodb-tools.com","title" : "A directory of tools for working with MongoDB"}
+{"score" : 5,"url" : "http://ilearnasigoalong.blogspot.com.br/2013/12/mongo-aggregating-fractals.html","title" : "I learn as I go along: Mongo Aggregating Fractals."}
+{"score" : 2,"url" : "http://blog.mongohq.com/saving-private-functions/","title" : "Saving Private Functions: Extending the Mongo Shell"}
+{"score" : 3,"url" : "http://blog.mongodirector.com/10-tips-to-improve-your-mongodb-security/","title" : "10 tips to improve Mongodb security"}
+{"score" : 4,"url" : "http://blog.mongohq.com/how-i-stopped-worrying-and-learned-to-love-the-mongo-shell/","title" : "How I stopped worrying and learned to love the Mongo Shell: Fun with functions and easy editing."}
+{"score" : 0,"url" : "http://imgur.com/gallery/9sphazr/","title" : "Banana for (web)scale"}
+{"score" : 4,"url" : "http://www.reddit.com/r/mongodb/comments/1vewxu/how_to_compile_latest_mongodb_for_pi/","title" : "how to compile latest mongodb for pi?"}
+{"score" : 2,"url" : "http://blog.mongohq.com/node-js-mongodb-and-you-an-intro-in-parts/","title" : "Getting started with node.js and MongoDB"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1v9uq6/hamming_distance_query_in_mongodb/","title" : "Hamming distance query in MongodB"}
+{"score" : 10,"url" : "https://education.mongodb.com/courses/10gen/M101JS/2014_January/about","title" : "\"MongoDB for Node.js Developers\" begins today."}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1v3ls8/monk_and_findandmodift/","title" : "Monk and findAndModift"}
+{"score" : 6,"url" : "http://blog.mongohq.com/data-analysis-minus-the-crippling-performance-hit/","title" : "How to dig up data for analysis, minus the crippling DB performance hit."}
+{"score" : 5,"url" : "http://www.reddit.com/r/mongodb/comments/1unaff/why_was_the_little_mongodb_book_removed_from_the/","title" : "Why was the Little MongoDB Book removed from the sidebar?"}
+{"score" : 8,"url" : "http://www.reddit.com/r/mongodb/comments/1uid16/switching_from_mysql_to_mongodb/","title" : "Switching from MySQL to MongoDB"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1u9p1b/calculating_peak_concurrency_using_mongodb/","title" : "Calculating peak concurrency using mongodb"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1u0lq1/is_going_through_node_much_slower_than_directly/","title" : "Is going through Node much slower than directly to MongoDB API?"}
+{"score" : 1,"url" : "http://www.reddit.com/r/mongodb/comments/1u0y8w/whats_the_best_way_to_keep_mongodb_running_on_a/","title" : "What's the best way to keep mongodb running on a remote server with Forever.js?"}
+{"score" : 3,"url" : "http://joel-latino.blogspot.pt/2013/12/pentaho-overview-using-mongodb-oporto.html","title" : "Talk about Pentaho overview using MongoDB (Meetup Oporto MUG #2)"}
+{"score" : 5,"url" : "http://blog.mongohq.com/mongodb-data-management/","title" : "A MongoDB fitness plan to avoid death-by-disk-overflow"}
+{"score" : 4,"url" : "http://www.mongodb.com/blog/post/backup-vs-replication-why-do-you-need-both","title" : "Backup vs. Replication - Why Do You Need Both?"}
+{"score" : 1,"url" : "https://github.com/clearcode/migopy","title" : "Announcing Migopy - Mongo Migrations for Python"}
+{"score" : 2,"url" : "https://www.mongodb.com/products/mongodb-management-service","title" : "If you sign up for MMS through mongodb, you get a free shirt, I love shirts!"}
+{"score" : 1,"url" : "http://www.reddit.com/r/mongodb/comments/1s6m8m/cron_style_jobs_with_cloud_db_providers/","title" : "cron style jobs with cloud db providers?"}
+{"score" : 7,"url" : "http://blog.mongolab.com/2013/12/tuning-mongodb-performance-with-mms/","title" : "Optimize MongoDB Performance with MMS | A Guide by MongoLab"}
+{"score" : 5,"url" : "http://www.reddit.com/r/mongodb/comments/1rphkf/it_looks_like_mongovue_is_dead_can_you_give_me/","title" : "It looks like MongoVUE is dead, can you give me advice on alternatives?"}
+{"score" : 5,"url" : "http://www.mongodb.com/blog/post/introducing-mongodb-management-service-activity-feed","title" : "Introducing the MongoDB Management Service Activity Feed"}
+{"score" : 5,"url" : "http://blog.jonathanbroquist.com/building-a-google-calendar-booking-app-with-mongodb-expressjs-angularjs-and-node-js-part-2/","title" : "Building a Google Calendar Booking App with MongoDB, ExpressJS, AngularJS, and Node.js - Part 2"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1qel4e/fast_join_library_for_mongodb/","title" : "Fast join library for MongoDB"}
+{"score" : 8,"url" : "http://www.reddit.com/r/mongodb/comments/1q11i3/is_mongodb_a_hot_thing_right_now_and_is_it_worth/","title" : "Is MongoDB a hot 'thing' right now, and is it worth learning?"}
+{"score" : 2,"url" : "http://www.reddit.com/r/mongodb/comments/1pphpp/options_for_backing_up_mongodb/","title" : "Options for backing up MongoDB?"}
+{"score" : 3,"url" : "http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb","title" : "Schema Design for Time Series Data in MongoDB"}
+{"score" : 1,"url" : "http://www.netmess.org/cleanly-install-the-mongodb-driver-for-php/","title" : "cleanly install the MongoDB driver for PHP"}
+{"score" : 4,"url" : "http://craiggwilson.com/2013/10/21/load-balanced-mongos/","title" : "Load Balancing Mongos"}
+{"score" : 2,"url" : "http://vanmaasakkers.net/2013/10/my-journey-to-mongodb/","title" : "My journey to MongoDB"}
+{"score" : 6,"url" : "http://www.reddit.com/r/mongodb/comments/1phop0/mongodb_certification_now_available_for/","title" : "MongoDB Certification Now Available for Developers and DBAs"}
+{"score" : 6,"url" : "http://www.reddit.com/r/mongodb/comments/1p0zuj/choosing_a_data_model/","title" : "Choosing a data model"}
+{"score" : 6,"url" : "http://lqez.github.io/logiform/","title" : "a MongoDB-like query string generator via web, vice versa"}
+{"score" : 9,"url" : "http://anystacker.com/2013/10/indexing-project-gutenberg-with-mongodb-and-elasticsearch/","title" : "Full Text Search for Project Gutenberg with MongoDB and Elasticsearch"}
+{"score" : 3,"url" : "http://blog.mongohq.com/shipwrecked-a-mongodb-data-recovery-tale/","title" : "Shipwrecked! A MongoDB Data Recovery Tale"}
+{"score" : 2,"url" : "http://www.technology-ebay.de/the-teams/mobile-de/blog/mapping-bigdecimals-with-morphia-for-mongodb.html","title" : "Mapping BigDecimals with Morphia for MongoDB"}
+{"score" : 2,"url" : "http://www.peterbe.com/plog/fastestdb","title" : "Fastest database for Tornado"}
+{"score" : 2,"url" : "http://www.dilln.com/2014/03/12/node-js-aws-ec2-introduction/","title" : "I took a stab at writing a quick AWS EC2 Node.js starter guide."}
+{"score" : 0,"url" : "http://www.jakobm.com/hello-world-in-nodejs-is-broken","title" : "Hello World in Node.js is broken"}
+{"score" : 7,"url" : "http://h3manth.com/new/blog/2014/clone-all-official-yeoman-generators/","title" : "Clone all official Yeoman generators for contribution."}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1zxn8o/need_assistance_nginx_node_angular_subdirectories/","title" : "Need Assistance: nginx, node, angular, subdirectories, and requests! Oh My!"}
+{"score" : 0,"url" : "http://www.toontuts.com/a-dozen-of-concepts-you-should-know-about-node-js/","title" : "A dozen of concepts you show know about nodeJs"}
+{"score" : 10,"url" : "http://www.frontendjournal.com/crud-webservice-for-your-json-data-in-node-js-and-rethinkdb/","title" : "Crud WebService with Node.JS and RethinkDB"}
+{"score" : 0,"url" : "http://www.dzone.com/links/a_simple_login_application_in_nodejs_and_mongodb.html","title" : "A Simple Login Application in Node.js and MongoDB"}
+{"score" : 2,"url" : "http://www.reddit.com/r/nodejs/comments/1zmm6y/module_for_facebook_graph_live_stream/","title" : "Module for facebook graph live stream ?"}
+{"score" : 23,"url" : "http://www.infoworld.com/t/javascript/paypal-and-netflix-cozy-nodejs-237593","title" : "PayPal and Netflix among giants moving to NodeJS"}
+{"score" : 10,"url" : "http://blog.npmjs.org/post/78085451721/npms-self-signed-certificate-is-no-more","title" : "npm's Self-Signed Certificate is No More"}
+{"score" : 6,"url" : "http://www.reddit.com/r/nodejs/comments/1z6p7z/roadmap_for_learning_nodejs_the_mean_stack/","title" : "Roadmap for learning Node.js &amp; the MEAN stack?"}
+{"score" : 7,"url" : "http://www.reddit.com/r/nodejs/comments/1z5jwi/nodejs_noob_here_got_some_questions_about_web/","title" : "Node.js noob here, got some questions about web frameworks"}
+{"score" : 16,"url" : "https://gist.github.com/mikeal/9242748","title" : "Response to Nodejitsu NPM Trademark"}
+{"score" : 18,"url" : "http://i.imgur.com/R7D6xDN.jpg","title" : "Am I too late for server-side JavaScript?"}
+{"score" : 5,"url" : "http://www.reddit.com/r/nodejs/comments/1z08q0/nodejs_newcomer/","title" : "Nodejs Newcomer"}
+{"score" : 0,"url" : "https://github.com/krisives/socks5","title" : "A Socket object for connecting over SOCKS5 proxies"}
+{"score" : 2,"url" : "http://custardbelly.com/blog/blog-posts/2014/02/25/introducing-caddis/index.html","title" : "Caddis: on-the-fly, RESTful, JSON in-memory server for NodeJS"}
+{"score" : 2,"url" : "http://www.reddit.com/r/nodejs/comments/1yyv09/landing_a_job_with_nodejs/","title" : "Landing a job with node.js"}
+{"score" : 6,"url" : "http://www.gregjopa.com/2014/02/testing-and-code-coverage-with-node-js-apps/","title" : "Testing and Code Coverage with Node.js Apps"}
+{"score" : 2,"url" : "http://www.reddit.com/r/nodejs/comments/1yurgg/libraries_for_making_a_rotating_proxy_server/","title" : "Libraries for making a rotating proxy server?"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1yqgzo/trying_my_hand_at_node_using_learn_you_node_one/","title" : "Trying my hand at node using Learn You Node. One of my solutions to a problem is returning the same exact results as the problem expects, but I'm not passing the level because my module file isn't returning an error correctly when being tested. Can anyone help me learn the \"node way\" of doing this?"}
+{"score" : 1,"url" : "http://meandavejustice.github.io/2014/02/23/ManPages-and-node-modules/","title" : "Man Pages and Node Modules"}
+{"score" : 16,"url" : "http://www.spectrumcoding.com/rants/2014/02/21/lessons-from-production.html","title" : "Lessons learned from running a web app in production (or \"How to sleep at night after deploying\")"}
+{"score" : 3,"url" : "http://tech.sokratik.com/posts/2014/02/18/mongoose-expressjs-and-json.html","title" : "Handling the first server crash at my startup"}
+{"score" : 17,"url" : "https://github.com/sergtitov/NodeJS-Learning","title" : "Learnign node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date."}
+{"score" : 9,"url" : "http://mherman.org/blog/2014/02/19/node-twitter-sentiment/#.UwTujkJdUp8","title" : "Node Twitter Sentiment Tutorial"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1yduf6/my_very_first_npm_package_consoledebug/","title" : "My very first npm package: console-debug"}
+{"score" : 12,"url" : "http://www.olindata.com/blog/2014/02/hacking-nodeos","title" : "Getting started with NodeOS"}
+{"score" : 8,"url" : "http://matthewpalmer.net/blog/2014/02/19/how-to-deploy-node-js-apps-on-digitalocean-with-dokku/","title" : "How to Deploy Node.js Apps on DigitalOcean with Dokku"}
+{"score" : 7,"url" : "http://taoofcode.net/promise-anti-patterns/","title" : "Promise Anti-patterns"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1y5o1a/simple_nodejs_wrapper_for_plotlys_online_graphing/","title" : "Simple node.js wrapper for plot.ly's online graphing API"}
+{"score" : 11,"url" : "http://mherman.org/blog/2014/02/16/getting-started-with-node/#.UwDnMNk2FG7.reddit","title" : "Getting Started with Node"}
+{"score" : 1,"url" : "http://h3manth.com/new/blog/2014/current-interface-and-random-port-with-nodejs/","title" : "Current interface and random port with nodejs"}
+{"score" : 7,"url" : "http://www.reddit.com/r/nodejs/comments/1xuv9g/debugging_on_the_raspberry_pi/","title" : "Debugging on the Raspberry Pi"}
+{"score" : 5,"url" : "http://www.reddit.com/r/nodejs/comments/1xu9v8/need_a_chat_what_you_recommend/","title" : "Need a chat! What you recommend?"}
+{"score" : 1,"url" : "http://tamas.io/mean-meetup/","title" : "MEAN meetup"}
+{"score" : 4,"url" : "http://csnipp.com/coderhs/85","title" : "A simple script to scan the ports of a system using node js"}
+{"score" : 0,"url" : "http://www.reddit.com/r/nodejs/comments/1xqezp/can_node_run_linux/","title" : "Can node run linux?"}
+{"score" : 6,"url" : "http://nodeday.com/","title" : "NodeDay by PayPal"}
+{"score" : 26,"url" : "http://blog.npmjs.org/post/76320673650/funding","title" : "Npm Raises $2.6M Seed Round"}
+{"score" : 8,"url" : "http://raygun.io/blog/2014/02/why-the-raygun-api-now-runs-on-node-js/","title" : "Why the Raygun API now runs on Node"}
+{"score" : 0,"url" : "https://github.com/hillmanov/node-ermahgerd","title" : "ERMAHGERD!! - Translate any string to Ermahgerdese"}
+{"score" : 3,"url" : "http://h3manth.com/new/blog/2014/getting-started-with-koajs/","title" : "Getting started with koajs"}
+{"score" : 0,"url" : "http://what-do-you-want-to-learn-about-nodejs/","title" : "What do you want to learn about Node?"}
+{"score" : 7,"url" : "https://vimeo.com/86109044","title" : "I put up another screencast for learning NodeJS, primarily talking about UnderscoreJS in this one (feedback wanted)"}
+{"score" : 4,"url" : "https://github.com/FungusHumungus/pongular","title" : "Using the Angular JS Dependecy Injection module on the server"}
+{"score" : 10,"url" : "http://www.reddit.com/r/nodejs/comments/1x4o9u/personal_jarvislike_assistant_written_with_nodejs/","title" : "Personal Jarvis-like assistant written with Node.js"}
+{"score" : 11,"url" : "http://codecondo.com/7-minimal-node-js-web-frameworks/","title" : "7 Minimal Node.js Web Frameworks for 2014 and Beyond"}
+{"score" : 2,"url" : "http://css.dzone.com/articles/simple-nodejs-web-application","title" : "A simple Node.js web application that uses Mongoose, Express and MongoDB and returns JSON"}
+{"score" : 2,"url" : "http://www.reddit.com/r/nodejs/comments/1wzshl/help_implementing_a_live_feed_with_node/","title" : "Help implementing a live feed with node"}
+{"score" : 9,"url" : "http://www.recursiverobot.com/post/75281512146/demos-using-aws-with-node-js-and-an-angularjs-frontend","title" : "Demos using AWS with Node.JS, an AngularJS frontend and socket.io"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1wvtzu/is_nodejs_what_i_need_for_my_project/","title" : "Is Node.js what i need for my project?"}
+{"score" : 0,"url" : "http://www.reddit.com/r/nodejs/comments/1wudpm/webstorm_and_multiple_nodejs_projects/","title" : "Webstorm and multiple nodejs projects"}
+{"score" : 13,"url" : "https://github.com/sahat/hackathon-starter/blob/master/README.md","title" : "Boilerplate for node apps"}
+{"score" : 2,"url" : "http://h3manth.com/new/blog/2014/launch-browser-from-node-server/","title" : "Launch browser from node server"}
+{"score" : 2,"url" : "https://vimeo.com/85576688","title" : "Coding Out Loud - Rest Apis Getting Started (Part 3) is up :-)"}
+{"score" : 1,"url" : "https://github.com/mafintosh/respawn/blob/master/README.md","title" : "Respawn a node process"}
+{"score" : 0,"url" : "http://www.reddit.com/r/nodejs/comments/1wphvr/weird_performance_issue_file_io_slow_integer_and/","title" : "Weird performance issue - file IO slow, integer and math fast"}
+{"score" : 13,"url" : "https://medium.com/programming-ideas-tutorial-and-experience/d7de566d499f","title" : "Opening files in Node.js considered harmful (a very good read)"}
+{"score" : 1,"url" : "http://www.joyent.com/blog/mdb-and-linux","title" : "Learn to debug Node.js core files from Linux: MDB and Linux"}
+{"score" : 3,"url" : "http://www.infoq.com/news/2012/05/vertx","title" : "What are your thoughts on Vert.x vs Node.js?"}
+{"score" : 7,"url" : "http://dailyjs.com/2014/01/20/nodeapp/","title" : "A Node Interpreter for iOS"}
+{"score" : 2,"url" : "https://github.com/andreas-marschke/boomerang-express","title" : "Wrote the serverside data-collection service for boomerang analytics (RUM)"}
+{"score" : 9,"url" : "http://amirrajan.net/screencasts/","title" : "I'm up to 10 screencasts in my learning NodeJS series. Feedback Wanted :-D"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1wdljl/node_vs_ruby_same_speed_for_classy_web_app/","title" : "Node vs Ruby - same speed for classy web app"}
+{"score" : 14,"url" : "http://remysharp.com/2014/01/20/nodemon-1-0/","title" : "nodemon refactored and version 1.0 is availble"}
+{"score" : 15,"url" : "https://github.com/sahat/hackathon-starter","title" : "Boilerplate code for ExpressJS + Mongoose + PassportJS (Demo)"}
+{"score" : 1,"url" : "https://servercheck.in/blog/start-nodejs-app-with-forever-and-ansible","title" : "Start a Node.js app with Forever and Ansible"}
+{"score" : 6,"url" : "http://www.reddit.com/r/nodejs/comments/1w7pes/anyone_help_with_npm_install_errors_osx_nodejs/","title" : "anyone help with npm install errors? OSX, node.js installed by package"}
+{"score" : 0,"url" : "http://stackoverflow.com/questions/21367700/push-rejected-no-cedar-supported-app-detected-node-connect-app","title" : "Node Connect App Hosting Static Site: Heroku Delpoy Error. Help!"}
+{"score" : 5,"url" : "http://www.reddit.com/r/nodejs/comments/1w5qi7/how_do_nonblocking_things_work_in_nodejs/","title" : "How do non-blocking things work in Node.js?"}
+{"score" : 8,"url" : "http://rexstjohn.com/node-js-lessons-trenches/","title" : "Node.js: Stories From The Trenches"}
+{"score" : 6,"url" : "http://blog.nodejitsu.com/npm-post-mortem-01-24/","title" : "Public npm outagepost-mortem - Jan 24, 2014"}
+{"score" : 4,"url" : "http://www.reddit.com/r/nodejs/comments/1w1rdh/optimizing_for_heroku_deployment/","title" : "Optimizing for Heroku Deployment"}
+{"score" : 12,"url" : "http://blog.nodejs.org/2014/01/23/node-v0-10-25-stable/?utm_source=planetnodejs&amp;utm_medium=twitter","title" : "Node v0.10.25 is now available"}
+{"score" : 4,"url" : "http://www.reddit.com/r/nodejs/comments/1vy2ry/is_npm_registry_still_having_problems/","title" : "Is npm registry still having problems?"}
+{"score" : 1,"url" : "http://www.reddit.com/r/nodejs/comments/1vz0vt/problems_with_npm_on_ubuntu_any_help_will_be_much/","title" : "Problems with npm on ubuntu - Any help will be much appreciated."}
+{"score" : 5,"url" : "http://www.reddit.com/r/nodejs/comments/1vtovk/expressjs_question_are_individual_routes_blocking/","title" : "ExpressJS question - are individual routes blocking?"}
+{"score" : 7,"url" : "https://github.com/noahcollins/transcriptions/tree/57-a-docker-show","title" : "Nodeup podcast transcriptions are available on Github!"}
+{"score" : 1,"url" : "https://github.com/bevacqua/contra","title" : "Contrλ – a functional async control flow library – looks promising"}
+{"score" : 5,"url" : "http://www.olindata.com/blog/2014/01/file-uploading-and-streaming-binaryjs","title" : "Video Uploading and Streaming with BinaryJS"}
+{"score" : 11,"url" : "http://bites.goodeggs.com/posts/export-this/","title" : "Export This: Interface Design Patterns for Node.js Modules"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1vq7f2/failed_to_fetch_from_registry/","title" : "Failed to fetch from registry."}
+{"score" : 7,"url" : "https://vimeo.com/channels/659338","title" : "Continuing to do screencasts about NodeJS, first 4 are about doing code katas in Node"}
+{"score" : 3,"url" : "http://mircozeiss.com/lockit-an-express-authentication-solution/","title" : "Lockit - an Express Authentication Solution inspired by Devis"}
+{"score" : 9,"url" : "http://www.joyent.com/blog/node-js-and-the-road-ahead","title" : "Node.js and the Road Ahead to 0.12"}
+{"score" : 2,"url" : "https://github.com/playlyfe/poseidon-mongo","title" : "High Performance Bluebird Promise API for MongoDB Native NodeJS Driver"}
+{"score" : 18,"url" : "http://blog.nodejs.org/2014/01/15/the-next-phase-of-node-js/index.html","title" : "The Next Phase of Node.js - Isaacs stepping down as project lead"}
+{"score" : 6,"url" : "http://amirrajan.net/vimeo/","title" : "Starting to do screencasts about NodeJS, first few are up on Vimeo. Hope you like them."}
+{"score" : 2,"url" : "http://binb.nodejitsu.com/","title" : "binb, a simple node.js app i found some time ago on r/WebGames/‎"}
+{"score" : 1,"url" : "http://www.reddit.com/r/nodejs/comments/1vah62/blog_api_server_integration/","title" : "Blog API server integration"}
+{"score" : 7,"url" : "http://node-ruby.tumblr.com/","title" : "A web developer blog who works with Node.js and Ruby."}
+{"score" : 9,"url" : "https://www.engineyard.com/infographics/nodejs","title" : "Informative Node infographic"}
+{"score" : 3,"url" : "http://www.reddit.com/r/nodejs/comments/1v1x5g/streams_fibers/","title" : "Streams &amp; Fibers"}
+{"score" : 15,"url" : "http://www.reddit.com/r/nodejs/comments/1uyj3j/i_wrote_a_cards_against_humanity_irc_bot_in/","title" : "I wrote a Cards Against Humanity IRC bot in Node.js and could use some feedback."}
+{"score" : 13,"url" : "http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/?utm_source=nodeweekly&amp;utm_medium=email","title" : "Introduction to HTML5 Desktop Apps With Node-Webkit"}
+{"score" : 14,"url" : "http://www.reddit.com/r/nodejs/comments/1uszy5/recommended_tutorials_for_learning_nodejs/","title" : "recommended tutorials for learning node.js?"}
+{"score" : 0,"url" : "https://twitter.com/gruntweekly/status/436752516311547905","title" : "Getting Started with Grunt: The JavaScript Task Runner"}
+{"score" : 2,"url" : "http://nmotw.in","title" : "Node Module Of The Week [Suggest a module]"}
+{"score" : 0,"url" : "http://www.toontuts.com/reading-command-line-arguments-with-nodejs/","title" : "Reading command line arguments using nodejs"}
