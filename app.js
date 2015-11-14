@@ -4,6 +4,9 @@ var express = require('express'),
     routes = require('./routes'),
     user = require('./routes/user');
 
+var MongoClient = require('mongodb').MongoClient,
+    dbUrl = process.env.MONGOLAB_URI || "mongodb://localhost:27017/test";
+
 var app = express();
 
 // all environments
@@ -40,6 +43,15 @@ app.get('/user', auth, user.user_index);
 app.post('/vote', auth, user.vote);
 app.post('/submit', auth, user.submit);
 app.get('/logout', auth, user.logout);
+
+MongoClient.connect(dbUrl, function(err, db) {
+  if (err) {
+    throw err;
+  }
+
+  global.reddit = db.collection('reddit');
+  global.users = db.collection('users');
+});
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));

@@ -1,7 +1,4 @@
-var MongoClient = require('mongodb').MongoClient,
-    dbUrl = process.env.MONGOLAB_URI || "mongodb://localhost:27017/test",
-    db_err_handler = require('./common.js').db_err_handler,
-    message = '';
+var message = '';
 
 exports.comment = function(req, res) {
   var urlScore = req.params.score;
@@ -24,70 +21,70 @@ exports.submit = function (req, res) {
 
   console.log("Submitting a link... " + JSON.stringify(req.body));
   var data = req.body;
-  MongoClient.connect(dbUrl, function(err, db) {
-    db_err_handler(err, res);
+  reddit.findOne(
+    { url: data.url },
+    function (err, doc) {
+      if (err) {
+        console.warn(err.message);
+        res.redirect(503, '/unavailable');
 
-    var redditCol = db.collection('reddit');
-    redditCol.findOne(
-      { url: data.url },
-      function (err, doc) {
-        db_err_handler(err, res);
-
+      } else {
         // URL not found
         if (doc === null) {
-          redditCol.insert(
+          reddit.insert(
             { title: data.title, url: data.url, score: 0 },
             function (err, insDoc) {
-              db_err_handler(err, res);
+              if (err) {
+                console.warn(err.message);
+                res.redirect(503, '/unavailable');
 
-              message = "Successfully submit a new URL";
-              res.redirect(302, 'user');
+              } else {
+                message = "Successfully submit a new URL";
+                res.redirect(302, 'user');
+              }
             });
+
         } else {
           message = "URL is already submitted!";
           res.redirect(302, 'submit-a-link');
         }
-      });
-  });
+      }
+    });
 };
 
 exports.user_index = function (req, res) {
-  MongoClient.connect(dbUrl, function(err, db) {
-    db_err_handler(err, res);
-
-    var redditCol = db.collection("reddit");
-    redditCol.aggregate(
-      { $project: { _id: 0, title: 1, score: 1 } },
-      { $sort: { score: -1 } },
-      function (err, doc) {
-        res.render('index', {
-          title: 'Teeny-tiny mini-Reddit | User',
-          authenticated: req.headers.authorization,
-          bookmarks: doc,
-          message: message
-        });
-        message = '';
+  reddit.aggregate(
+    { $project: { _id: 0, title: 1, score: 1 } },
+    { $sort: { score: -1 } },
+    function (err, doc) {
+      res.render('index', {
+        title: 'Teeny-tiny mini-Reddit | User',
+        authenticated: req.headers.authorization,
+        bookmarks: doc,
+        message: message
       });
-  });
+      message = '';
+    });
 };
 
 exports.vote = function (req, res) {
   console.log("Voting... " + JSON.stringify(req.body));
 
   var data = req.body;
-  MongoClient.connect(dbUrl, function(err, db) {
-    db_err_handler(err, res);
+  var addedPts = (data.direction === 'up' ? 1 : -1);
 
-    var redditCol = db.collection('reddit');
-    var addedPts = (data.direction === 'up' ? 1 : -1);
+  reddit.update(
+    { title: data.title },
+    { $inc: { score: addedPts } },
+    function (err, doc) {
+      if (err) {
+        console.warn(err.message);
+        res.redirect(503, '/unavailable');
 
-    redditCol.update(
-      { title: data.title },
-      { $inc: { score: addedPts } },
-      function (err, doc) {
-        db_err_handler(err, res);
-        console.log("Voting " + data.direction + " \"" + data.title + "\" ...");
+      } else {
+        console.log("Voting " + data.direction +
+                    " \"" + data.title + "\" ...");
         res.redirect(302, '/user');
-      });
-  });
+      }
+    });
 };
