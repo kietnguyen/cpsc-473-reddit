@@ -25,7 +25,7 @@ npm start
 ```
 
 
-## Credits
+## References
 
 **JS Libraries**
 
